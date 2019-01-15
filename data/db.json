@@ -1,0 +1,22 @@
+{
+  "categories": [
+    {
+      "id": "1"
+    },
+    {
+      "id": "Nw3243o",
+      "name": "Jule",
+      "display_name": "Julie Jones",
+      "description": "Julie J is the queen"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "category": "books",
+      "name": "The Power",
+      "display_name": "Power",
+      "description": "Woman get the power to shock with their bare hands"
+    }
+  ]
+}
